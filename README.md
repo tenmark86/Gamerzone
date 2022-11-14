@@ -13,7 +13,7 @@ Created By Mak Kilela
 
 ## Setup/Installation Requirements
 
-* gitclone the repo on your terminal https://github.com/tenmark86/GamerReview-Site
+* gitclone the repo on your terminal 
 * CD into the ```Directory```
 * open ```index.html``` on your browser, Thats it the site will run.
 * For collaborations open a gitpull request on the repo. 
@@ -25,7 +25,7 @@ The following languages have been used on this project:
 * CSS
 * JS 
 
-Live link: https://tenmark86.github.io/bike-shop/
+Live link: 
 
 ## Some Screenshots
 
