@@ -1,21 +1,44 @@
-# GamerReview-Site
+# Gamerzone
 
-![Gamer](https://content.spiceworksstatic.com/service.community/p/post_images/0000310859/5b0f0fcf/attached_image/giphy_%2822%29.gif)
+![React](https://cdn.dribbble.com/users/5147579/screenshots/11135140/media/e677b1d8343719d2975c105d3d7eb1c7.gif)
 
-# Description
-A Fully customized Gaming Review site that lists all the games, reviews, game Trailers and more.
 
-# project setup instructions 
+* Landing page for a Gaming site
+Created By Mak Kilela
+
+* Data obtained from TREK site: [RAWG](https://rawg.io) 
+ 
+## Description
+* ALX final project 
+
+## Setup/Installation Requirements
 
 * gitclone the repo on your terminal https://github.com/tenmark86/GamerReview-Site
 * CD into the ```Directory```
 * open ```index.html``` on your browser, Thats it the site will run.
 * For collaborations open a gitpull request on the repo. 
 
+## Technologies Used
+The following languages have been used on this project:
 
-# Authour
-Mark Kilela (mak.kilela@student.moringaschool.com)
+* HTML
+* CSS
+* JS 
 
-Credits to https://rawg.io for the API Data.
+Live link: https://tenmark86.github.io/bike-shop/
+
+## Some Screenshots
 
 
+
+## Known Bugs
+* So far so good there are no bugs related to this project 😎
+
+## Support and contact details 🙂
+* To make a contribution to the code used or any suggestions you can open a pull request on the repo
+
+## Email:
+* tenmark86@gmail.com
+
+## License
+* MIT licence Copyright (c) 2022 
