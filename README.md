@@ -29,6 +29,14 @@ Live link:
 
 ## Some Screenshots
 
+## Homepage
+![Screenshot 2022-11-22 153658](https://user-images.githubusercontent.com/83606182/205067591-29d5237b-1d03-4959-a66c-50c6bc1efca4.png)
+
+## Screenshot 1 Deadisland 2
+![Screenshot 2022-11-22 153912](https://user-images.githubusercontent.com/83606182/205067847-ddc9a28d-e703-4e84-a6b0-631bdd40fd96.png)
+
+## screenshot 3 Hogwarts Legacy
+![Screenshot 2022-11-22 153758](https://user-images.githubusercontent.com/83606182/205068054-c1098d15-b8f0-4124-a85e-68a25307905a.png)
 
 
 ## Known Bugs
