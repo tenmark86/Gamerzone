@@ -25,7 +25,7 @@ The following languages have been used on this project:
 * CSS
 * REACT JS 
 
-Live link: 
+Live link: gamerzone-six.vercel.app
 
 ## Some Screenshots
 
