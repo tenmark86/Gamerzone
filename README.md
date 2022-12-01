@@ -23,7 +23,7 @@ The following languages have been used on this project:
 
 * HTML
 * CSS
-* JS 
+* REACT JS 
 
 Live link: 
 
