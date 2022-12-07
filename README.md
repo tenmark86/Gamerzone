@@ -23,7 +23,8 @@ The following languages have been used on this project:
 
 * HTML
 * CSS
-* REACT JS 
+* JAVASCRIPT
+*JSON for backend through a public API
 
 ## Some Screenshots
 
